@@ -242,9 +242,9 @@ SET serialized_value = to_jsonb('--- !ruby/hash:ActiveSupport::HashWithIndiffere
 WHERE name = 'INSTALLATION_PRICING_PLAN_QUANTITY';
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Projeto
 
-**Dchat** desenvolvido por **LuizBranco-ClickHype**
+**Dchat** - Projeto educacional open-source
 
 ---
 
